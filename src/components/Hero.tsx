@@ -33,7 +33,7 @@ const Hero: React.FC = () => {
       <div className="relative z-10 text-center text-white px-6">
         <div className="overflow-hidden">
           <h1 className="text-8xl md:text-9xl font-bold mb-4 font-serif animate-slide-up">
-            SARAN P
+            SARAN
           </h1>
         </div>
         
